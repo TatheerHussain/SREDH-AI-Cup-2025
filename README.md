@@ -169,11 +169,3 @@ The **top 10 teams** are summarized below:
 
 ---
 
-## 📂 Repository Structure
-
-/data         # Example datasets (if permitted)
-/notebooks    # EDA, data exploration, and preprocessing notebooks
-/models       # Trained models or checkpoints
-/scripts      # Training, inference, and evaluation scripts
-/docs         # Additional documentation
-README.md     # This file
