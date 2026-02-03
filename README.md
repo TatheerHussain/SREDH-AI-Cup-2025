@@ -1,4 +1,4 @@
-# SREDH/AI CUP 2026
+# SREDH/AI CUP 2025
 
 <div align="center">
 
@@ -24,7 +24,7 @@ Leveraging Large Language Models and Audio Processing Techniques for De-identifi
 
 ## 📖 Overview
 
-This repository highlights innovative solutions developed by the top teams of **AI CUP 2026**. The challenge focused on de-identifying **sensitive personal health information (PHI)** from patient audio recordings while preserving clinical content.  
+This repository highlights innovative solutions developed by the top teams of **AI CUP 2025**. The challenge focused on de-identifying **sensitive personal health information (PHI)** from patient audio recordings while preserving clinical content.  
 
 Teams leveraged state-of-the-art methods including:
 
