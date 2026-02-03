@@ -29,8 +29,8 @@ This repository highlights innovative solutions developed by the top teams of **
 Teams leveraged state-of-the-art methods including:
 
 - Large Language Models (LLMs)  
-- Deep learning for audio processing  
-- Rule-based anonymization and normalization techniques  
+- More details 
+- More details 2 
 
 ---
 
